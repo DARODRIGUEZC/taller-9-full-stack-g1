@@ -11,6 +11,7 @@
 <a href="https://www.figma.com/file/W5QEIutwP5HyH6Tty06Ipq/Diana-Alejandra-Rodr%C3%ADguez-Casas?type=design&node-id=0%3A1&mode=design&t=XFVK7nH5vVcx41h4-1">Link de Figma</a>
 
 <h2>Punto 2: Diseño HTML</h2>
+<img src="./public/images/punto-2.png" alt="punto 2">
 
 <h2>Punto 3: Diseño con CSS</h2>
 
