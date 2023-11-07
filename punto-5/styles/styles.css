@@ -1,0 +1,25 @@
+#subtitle__1 {
+    color: green;
+}
+
+b {
+    color: red;
+}
+
+#subtitle__2 {
+    text-decoration: overline underline
+}
+
+strong {
+    font-size: 30px;
+}
+
+#subtitle__3 {
+    color: blue;
+    font-size: 18px;
+}
+
+#subtitle__4 {
+    color: red;
+    font-size: 18px;
+}
