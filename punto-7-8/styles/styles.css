@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    color: white;
+    background-color: rgba(137, 43, 226, 0.452);
+    margin: 50px;
+    gap: 30px;
+    list-style: none;   
+    border-bottom: 0px 10px 50px;    
+}
+
+body :hover {
+    background-color: blue;
+    color: white;
+    border: 0px;
+    cursor: pointer;
+}
