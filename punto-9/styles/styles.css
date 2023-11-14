@@ -1,5 +1,25 @@
+body {
+    display: flex;
+    justify-content: center
+}
 table {
-    border: black 1px dotted;
-   text-align: left;  
+    border-collapse: collapse;
+    text-align: left;      
+    margin-top: 20px;
+    background-color: yellow;      
 }
 
+th {
+    border: black 1px dotted;
+    padding: 8px;
+    text-align: center;
+    color: red;      
+    font-weight: 0;
+}
+
+td {
+    border: black 1px dotted;
+    padding: 8px;
+    text-align: left;
+
+}
